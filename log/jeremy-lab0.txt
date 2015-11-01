@@ -1,0 +1,3 @@
+Grading lab0 for user jeremy...
+You failed one or more tests. The first failing test was:
+Got incorrect return value 2 when calling 'identity' with the argument 1
